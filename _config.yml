@@ -15,10 +15,10 @@ author: Tiwari Abhinav Ashokkumar
 
 navbar-links:
   About Me: "Learner and explorer"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ # Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://abhinav_tiwari.com"
 
 # --- Logo --- #
 
@@ -41,14 +41,14 @@ round-avatar: true
 social-network-links:
   email: "tiwariabhinav424@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: Tiwari Abhinav Ashok Kumar
+  #facebook: deanattali
+  github:abhinavgg
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
+ medium: Tiwari Abhinav Ashok Kumar
 #  reddit: yourname
-#  linkedin: Tiwari Abhinav Ashok Kumar
+  linkedin: Tiwari Abhinav Ashok Kumar
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
