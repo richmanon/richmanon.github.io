@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Programming For All
 
 # Your name to show in the footer
-author: Some Person
+author: Tiwari Abhinav Ashokkumar
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Learner and explorer"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,22 +39,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "tiwariabhinav424@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
-#  medium: yourname
+#  medium: Tiwari Abhinav Ashok Kumar
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: Tiwari Abhinav Ashok Kumar
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +9198679047
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
