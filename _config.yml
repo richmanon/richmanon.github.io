@@ -14,7 +14,7 @@ author: Tiwari Abhinav Ashokkumar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Learner and explorer"
+  About Me: "aboutme"
  # Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
